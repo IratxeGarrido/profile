@@ -16,6 +16,17 @@ a {
   text-decoration: none;
 }
 
+.footer {
+  color: #252A34;
+  /* transition: color 0.5s; */
+}
+
+
+.footer:hover {
+  color: #66316e;
+  /* transition: background-color 0.5s; */
+}
+
 .container {
   width: 700px;
   margin: 0 auto;
